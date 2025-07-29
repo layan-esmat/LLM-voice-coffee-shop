@@ -30,20 +30,5 @@ A voice-controlled coffee shop website where users can speak to the browser, vie
 - "What do you have"
 - "Price of latte"
 
-## How to Add More Responses
 
-Edit the `data.json` file and add new entries like this:
 
-```json
-{
-"keywords": ["milk", "options"],
-"response": "We offer whole milk, oat milk, and almond milk."
-}
-The system will match based on 1 or 2 keywords found in the spoken input.
-
-Requirements
-Google Chrome
-
-Microphone access allowed
-
-Python (for running a local server)
