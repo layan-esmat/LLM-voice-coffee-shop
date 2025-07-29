@@ -1,0 +1,18 @@
+[
+  {
+    "keywords": ["cappuccino"],
+    "response": "Cappuccino has been added to your order."
+  },
+  {
+    "keywords": ["what", "have"],
+    "response": "We have cappuccino, latte, and espresso."
+  },
+  {
+    "keywords": ["price", "latte"],
+    "response": "Latte is 15 SAR."
+  },
+  {
+    "keywords": ["thank"],
+    "response": "You're welcome!"
+  }
+]
